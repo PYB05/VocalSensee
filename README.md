@@ -1,1 +1,2 @@
 # VocalSensee
+Project setup completed.
